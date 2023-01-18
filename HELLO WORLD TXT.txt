@@ -1,0 +1,8 @@
+<HTML>
+  <HEAD>
+    <TITLE>Sample web page<title>
+  </HEAD>
+    <BODY>
+         <P><B>Hello!world</B>
+    </BODY>
+</HTML>
